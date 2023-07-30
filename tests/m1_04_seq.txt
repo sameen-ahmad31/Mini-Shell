@@ -1,0 +1,11 @@
+ls -lh /usr/bin/ | grep thisisnotintheoutput ; ls tests/ | grep pipeline ; echo hello
+m0_01_single_cmd_pipeline.c
+m0_01_single_cmd_pipeline.d
+m0_01_single_cmd_pipeline.o
+m0_01_single_cmd_pipeline.test
+m0_02_pipelines.c
+m0_02_pipelines.d
+m0_02_pipelines.o
+m0_02_pipelines.test
+m1_03_pipeline.txt
+hello
